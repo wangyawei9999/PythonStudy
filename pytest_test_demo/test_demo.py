@@ -20,4 +20,4 @@ def test_003(a, b):
 
 
 if __name__ == '__main__':
-    pytest.main(['test_demo.py', '-s', '--html=/Users/user/PycharmProjects/TestProject/report/result.html'])
+    pytest.main(['test_demo.py', '-s', '--html=/Users/user/PycharmProjects/PythonStudy/report/result.html'])
